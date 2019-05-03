@@ -1,0 +1,145 @@
+#instruction-videos svg {
+	width: 100%;
+	max-width: 250px;
+}
+[class*="figure-buttons"] .btn-container {
+	width: 100%;
+	height: 51px;
+	margin-bottom: 10px;
+}
+.figure-buttons-left .btn-container,
+.figure-buttons-right .btn-container {
+	background: rgba(0, 0, 0, 0.5)!important;
+	background: -moz-linear-gradient(to right, transparent 0%, transparent 25px, rgba(0, 0, 0, 0.2) 25px, transparent 95%)!important;
+	background: -webkit-linear-gradient(left, transparent 0%, transparent 25px, rgba(0, 0, 0, 0.2) 25px, transparent 95%)!important;
+	background: linear-gradient(to right, transparent 0%, transparent 25px, rgba(0, 0, 0, 0.2) 25px, transparent 95%)!important;
+}
+[class*="figure-buttons"] .btn-container a {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	width: 100%;
+	height: 51px;
+	line-height: 1.2em;
+	font-size: 12px;
+	font-weight: 500;
+	background-size: initial!important;
+	background-repeat: no-repeat!important;
+}
+.figure-buttons-left .btn-container a,
+.figure-buttons-right .btn-container a {
+	padding-left: 60px;
+	text-align: left;
+	background-position: left center!important;
+	-webkit-justify-content: flex-start;
+	justify-content: flex-start;
+}
+[class*="figure-buttons"] .btn-container a span {
+	width: 100%;
+	max-width: 120px;
+    color: #0cb1ef;
+}
+[class*="figure-buttons"] div#foot-muscles a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/FootMuscles.png');
+}
+[class*="figure-buttons"] div#hamstring a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Hamstrings.png');
+}
+[class*="figure-buttons"] div#quadriceps a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Quadriceps.png');
+}
+[class*="figure-buttons"] div#tibialis a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Shin.png');
+}
+[class*="figure-buttons"] div#soleus a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Calf.png');
+}
+[class*="figure-buttons"] div#extension-handle-neck a {
+	background: url('https://irolflex.com/wp-content/uploads/2016/09/extension-handle-for-neck.png');
+}
+[class*="figure-buttons"] div#extension-handle-arm a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/MedialExorslbowWristFle.png');
+}
+[class*="figure-buttons"] div#multi-strap a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/ProsteriorNeckTrap.png');
+}
+[class*="figure-buttons"] div#upper-arm a {
+	background: url('https://irolflex.com/wp-content/uploads/2016/09/upper-arm-myofacial-release.png');
+}
+[class*="figure-buttons"] div#biceps-triceps a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/DeltTriceps.png');
+}
+[class*="figure-buttons"] div#elbow-tendonitis a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/LateralElbowWristExtensors.png');
+}
+[class*="figure-buttons"] div#carpal-tunnel a {
+	background: url('https://irolflex.com/wp-content/uploads/2016/09/carpal-tunnel-and-hand-trigger.png');
+}
+[class*="figure-buttons"] div#wrist a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/HandsWrists.png');
+}
+[class*="figure-buttons"] div#hands a {
+	background: url('https://irolflex.com/wp-content/uploads/2016/09/hands.png');
+}
+[class*="figure-buttons"] div#carry-strap a {
+	background: url('https://irolflex.com/wp-content/uploads/2016/09/how-to-use-the-carry-strap.png');
+}
+[class*="figure-buttons"] div#foam-roller a {
+	background: url('https://irolflex.com/wp-content/uploads/2016/09/foam-roller-reimagined.png');
+}
+
+[class*="figure-buttons"] div#pex a {
+	background: url('https://irolflex.com/wp-content/uploads/2017/07/AnteriorNeckPeck.png');
+}
+
+[class*="figure-buttons"] div#delt a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/DeltUpperArms.png');
+}
+
+[class*="figure-buttons"] div#biceps a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Biceps.png');
+}
+
+[class*="figure-buttons"] div#lats a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Lats.png');
+}
+
+[class*="figure-buttons"] div#lumb a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/QuadratusLumbordumTFL.png');
+}
+
+[class*="figure-buttons"] div#booty a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/GlutesOutwardRotators.png');
+}
+
+
+[class*="figure-buttons"] div#flexors a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/HipFlexors.png');
+}
+
+[class*="figure-buttons"] div#inner-thigh a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Adductors.png');
+}
+
+[class*="figure-buttons"] div#abs a {
+	background: url('https://irolflex.com/wp-content/uploads/2018/09/Abdominals.png');
+}
+
+
+#instruction-videos .figure-columns {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-align-items: center;
+	align-items: center;
+	margin-bottom: 5%;
+}
+.w-copyright a {
